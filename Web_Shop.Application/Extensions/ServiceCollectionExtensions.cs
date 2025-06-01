@@ -24,9 +24,12 @@ namespace Web_Shop.Application.Extensions
                 .AddScoped<ISieveCustomSortMethods, SieveCustomSortMethods>()
                 .AddScoped<ISieveCustomFilterMethods, SieveCustomFilterMethods>()
                 .AddScoped<ISieveProcessor, ApplicationSieveProcessor>()
-                .AddScoped(typeof(ICustomerService), typeof(CustomerService));
+                .AddScoped(typeof(ICustomerService), typeof(CustomerService))
+                .AddScoped(typeof(IProductService), typeof(ProductService));
 
-            services.AddScoped<IValidator<AddUpdateCustomerDTO>, AddUpdateCustomerDTOValidator>();
+            services
+                .AddScoped<IValidator<AddUpdateCustomerDTO>, AddUpdateCustomerDTOValidator>()
+                .AddScoped<IValidator<AddUpdateProductDTO>, AddUpdateProductDTOValidator>();
         }
     }
 }

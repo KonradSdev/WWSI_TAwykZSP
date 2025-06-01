@@ -26,6 +26,7 @@ namespace Web_Shop.Application.Utils
             try
             {
                 await PopulateTableAsync<Customer>("SeedData/customers.json", unitOfWork);
+                await PopulateTableAsync<Product>("SeedData/products.json", unitOfWork);
 
             }
             catch (Exception ex)

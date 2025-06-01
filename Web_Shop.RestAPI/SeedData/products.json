@@ -1,0 +1,182 @@
+[
+	{
+		"Name": "Ergonomiczne krzesło biurowe",
+		"Description": "Wygodne krzesło z regulacją wysokości i oparcia, idealne do długiej pracy przy biurku.",
+		"Price": 599.99,
+		"Sku": "MEB_KRZ_ERG01"
+	},
+	{
+		"Name": "Bezprzewodowe słuchawki douszne",
+		"Description": "Kompaktowe słuchawki z doskonałą jakością dźwięku i etui ładującym, idealne do podróży.",
+		"Price": 249.00,
+		"Sku": "ELE_SLU_DOU03"
+	},
+	{
+		"Name": "Kawiarka ciśnieniowa ze stali nierdzewnej",
+		"Description": "Elegancka kawiarka do przygotowania aromatycznej kawy espresso, kompatybilna z płytami indukcyjnymi.",
+		"Price": 89.50,
+		"Sku": "AGD_KAW_CIS02"
+	},
+	{
+		"Name": "Smartwatch z pulsometrem",
+		"Description": "Wielofunkcyjny zegarek monitorujący aktywność fizyczną, sen i tętno, z powiadomieniami ze smartfona.",
+		"Price": 379.90,
+		"Sku": "ELE_SMA_PUL05"
+	},
+	{
+		"Name": "Zestaw do malowania akwarelami",
+		"Description": "Komplet farb, pędzli i papieru do tworzenia pięknych obrazów akwarelowych, idealny dla początkujących.",
+		"Price": 125.00,
+		"Sku": "ART_MAL_AKW01"
+	},
+	{
+		"Name": "Plecak turystyczny 40L",
+		"Description": "Wytrzymały plecak z wieloma kieszeniami i systemem wentylacji, idealny na weekendowe wycieczki.",
+		"Price": 199.99,
+		"Sku": "TUR_PLE_40L01"
+	},
+	{
+		"Name": "Robot kuchenny wielofunkcyjny",
+		"Description": "Urządzenie do siekania, blendowania, ubijania i ugniatania ciasta, z dużą mocą i różnymi nasadkami.",
+		"Price": 750.00,
+		"Sku": "AGD_ROB_WIE04"
+	},
+	{
+		"Name": "Książka: 'Sekrety Starego Lasu'",
+		"Description": "Porywająca powieść fantasy pełna magii, przygód i tajemnic, idealna na długie wieczory.",
+		"Price": 45.90,
+		"Sku": "KNI_FAN_SEK02"
+	},
+	{
+		"Name": "Zestaw narzędzi domowych",
+		"Description": "Komplet podstawowych narzędzi, w tym młotek, śrubokręty i klucze, niezbędny w każdym domu.",
+		"Price": 110.00,
+		"Sku": "NAR_DOM_POD01"
+	},
+	{
+		"Name": "Lampa biurkowa LED z regulacją jasności",
+		"Description": "Nowoczesna lampa z energooszczędnym oświetleniem LED i możliwością zmiany natężenia światła.",
+		"Price": 95.00,
+		"Sku": "OSW_LAM_LED03"
+	},
+	{
+		"Name": "Blender personalny",
+		"Description": "Kompaktowy blender do przygotowywania koktajli i smoothie, z bidonem w zestawie.",
+		"Price": 139.99,
+		"Sku": "AGD_BLE_PER01"
+	},
+	{
+		"Name": "Gra planszowa 'Podbój Galaktyki'",
+		"Description": "Strategiczna gra planszowa dla całej rodziny, w której gracze rywalizują o dominację w kosmosie.",
+		"Price": 180.00,
+		"Sku": "GRY_PLA_GAL01"
+	},
+	{
+		"Name": "Torba na laptopa 15.6 cala",
+		"Description": "Stylowa i wytrzymała torba z wyściełaną przegrodą na laptopa, idealna do pracy i podróży.",
+		"Price": 79.90,
+		"Sku": "AKC_LAP_TOR02"
+	},
+	{
+		"Name": "Zestaw do uprawy ziół w doniczce",
+		"Description": "Wszystko, czego potrzebujesz, aby wyhodować świeże zioła w domu: nasiona, ziemia i doniczki.",
+		"Price": 65.00,
+		"Sku": "OGR_ZIOL_DON01"
+	},
+	{
+		"Name": "Kamera internetowa Full HD",
+		"Description": "Kamera do wideokonferencji i streamingu, z doskonałą jakością obrazu i wbudowanym mikrofonem.",
+		"Price": 169.00,
+		"Sku": "ELE_KAM_WEB01"
+	},
+	{
+		"Name": "Mata do jogi antypoślizgowa",
+		"Description": "Wysokiej jakości mata o doskonałej przyczepności, zapewniająca komfort i bezpieczeństwo podczas ćwiczeń.",
+		"Price": 85.00,
+		"Sku": "SPO_JOG_MAT01"
+	},
+	{
+		"Name": "Ekspres do kawy przelewowy",
+		"Description": "Klasyczny ekspres do parzenia dużej ilości kawy, z funkcją utrzymywania temperatury.",
+		"Price": 150.00,
+		"Sku": "AGD_EKX_PRZ03"
+	},
+	{
+		"Name": "Zewnętrzny dysk SSD 1TB",
+		"Description": "Szybki i pojemny dysk zewnętrzny, idealny do przechowywania danych, filmów i zdjęć.",
+		"Price": 499.00,
+		"Sku": "KOM_DYS_SSD02"
+	},
+	{
+		"Name": "Rękawice ogrodowe z pazurkami",
+		"Description": "Wytrzymałe rękawice ułatwiające kopanie i sadzenie w ogrodzie, chroniące dłonie.",
+		"Price": 35.00,
+		"Sku": "OGR_REK_PAZ01"
+	},
+	{
+		"Name": "Powerbank 10000 mAh",
+		"Description": "Przenośna ładowarka do smartfonów i tabletów, z dużą pojemnością i szybkim ładowaniem.",
+		"Price": 99.99,
+		"Sku": "ELE_POW_10K01"
+	},
+	{
+		"Name": "Zestaw do sushi DIY",
+		"Description": "Wszystko, czego potrzebujesz, aby przygotować domowe sushi: maty, ryż, nori i sosy.",
+		"Price": 120.00,
+		"Sku": "KUL_SUS_DIY01"
+	},
+	{
+		"Name": "Poduszka ortopedyczna z pianki memory",
+		"Description": "Poduszka dopasowująca się do kształtu głowy i szyi, zapewniająca zdrowy i komfortowy sen.",
+		"Price": 170.00,
+		"Sku": "DOM_POD_ORT01"
+	},
+	{
+		"Name": "Dron z kamerą HD",
+		"Description": "Lekki i łatwy w obsłudze dron z kamerą nagrywającą w jakości HD, idealny dla początkujących.",
+		"Price": 349.00,
+		"Sku": "HOB_DRO_HD01"
+	},
+	{
+		"Name": "Zestaw do pielęgnacji brody",
+		"Description": "Olejek, balsam i szczotka do pielęgnacji brody, dla zdrowego i zadbanego zarostu.",
+		"Price": 75.00,
+		"Sku": "KOS_BRO_PIE01"
+	},
+	{
+		"Name": "Termos obiadowy 1L",
+		"Description": "Szczelny termos do przechowywania ciepłych posiłków, idealny do pracy, szkoły lub na wycieczki.",
+		"Price": 55.00,
+		"Sku": "KUC_TER_OBI01"
+	},
+	{
+		"Name": "Zestaw klocków konstrukcyjnych (500 elementów)",
+		"Description": "Duży zestaw kolorowych klocków dla dzieci, rozwijający kreatywność i zdolności manualne.",
+		"Price": 89.99,
+		"Sku": "ZAB_KLO_KON01"
+	},
+	{
+		"Name": "Płyta winylowa: 'Jazz Classics'",
+		"Description": "Kolekcja największych hitów jazzowych na winylu, idealna dla miłośników muzyki analogowej.",
+		"Price": 110.00,
+		"Sku": "MUZ_WIN_JAZ01"
+	},
+	{
+		"Name": "Foremki do pieczenia ciastek (zestaw)",
+		"Description": "Różnorodne kształty foremek do tworzenia kreatywnych ciastek i dekoracji.",
+		"Price": 29.50,
+		"Sku": "KUC_FOR_CIA01"
+	},
+	{
+		"Name": "Lupa jubilerska z podświetleniem LED",
+		"Description": "Precyzyjna lupa z dwoma powiększeniami i wbudowanym oświetleniem, idealna do drobnych prac.",
+		"Price": 60.00,
+		"Sku": "NAR_LUP_JUB01"
+	},
+	{
+		"Name": "Głośnik Bluetooth przenośny",
+		"Description": "Kompaktowy głośnik z doskonałym dźwiękiem i długim czasem pracy na baterii, idealny na imprezy.",
+		"Price": 210.00,
+		"Sku": "ELE_GLO_BTP01"
+	}
+]
